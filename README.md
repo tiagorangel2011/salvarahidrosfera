@@ -2,4 +2,4 @@
 # Contribuições - Salvar a hidrosfera
 Contribuições para o projeto Salvar a hidrosfera
 # Como contribuir
-O manual de como contribuir ainda não está completado
+Vai a https://github.com/tiagorangel2011/salvarahidrosfera/discussions para começar. Depois, clica em "Olá", no topo e segue as instruções
